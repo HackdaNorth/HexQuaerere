@@ -1,5 +1,10 @@
 ﻿# HexQuaerere
+
+
 Pairs are from my e-c-u 
+
+pairs1 = 80 / little endian
+pairs2 = 70 / big endian
  
 Use at own risk, searches nearby hex bytes in 2 pairs for any matches. 
 
